@@ -133,34 +133,6 @@ index=botsv3 sourcetype="stream:http"
 
 ---
 
-## 📸 Screenshots
-
-### Splunk Home Dashboard
-![Splunk Home](splunk-home.png)
-
-### Windows Logs Ingestion
-![Windows Logs](windows_logs.PNG)
-
-### BOTS v3 Dataset Loaded
-![BOTS Dataset](bot_net.PNG)
-
-### Brute Force Detection — MITRE T1110
-![Brute Force](brute-force-detection.PNG)
-
-### Privilege Escalation Detection — MITRE T1078
-![Privilege Escalation](escalation.PNG)
-
-### Lateral Movement Detection — MITRE T1021
-![Lateral Movement](lateral_moment.PNG)
-
-### Data Exfiltration Detection — MITRE T1041
-![Data Exfiltration](data-extrafi_teration.PNG)
-
-### SOC Monitoring Dashboard
-![SOC Dashboard](soc-dashboard.PNG)
-
----
-
 ## ⚙️ Setup Guide
 
 ### Part 1 — Splunk on Kali Linux
@@ -236,14 +208,6 @@ SPL queries written:         10+
 MITRE techniques covered:    T1110, T1078, T1021, T1041
 Dashboard panels:            6
 ```
-
----
-
-## 🔗 Connect
-
-**LinkedIn:** [linkedin.com/in/lucky-sharma-923523341](https://linkedin.com/in/lucky-sharma-923523341)
-
-**GitHub:** [github.com/sharmalucky10](https://github.com/sharmalucky10)
 
 ---
 
